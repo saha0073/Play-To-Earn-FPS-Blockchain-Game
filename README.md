@@ -4,6 +4,11 @@ Built this first person shooter Play-To-Earn blockchain game in Unity using Mora
 
 ![title-pic](https://github.com/saha0073/Play-To-Earn-FPS-Blockchain-Game-in-Unity/blob/main/collect_nft_screenshot.png)
 
+## Techniques Used:
+* GameEngine: Unity3D 2020.3.36
+* Tech Stack: C#
+* Packages: Moralis Metaverse SDK   
+* Web3 features: Wallet authentication, NFTs transfer
 
 ## Demo of playing the P2E game
 * The `./Recordings` folder contains several recordings during the game play. You can check the following youtube video below which shows a demo of playing the game, and receiving the NFT in my wallet

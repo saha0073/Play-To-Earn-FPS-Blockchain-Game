@@ -6,6 +6,6 @@ Built this first person shooter Play-To-Earn blockchain game in Unity using Mora
 
 
 ## Demo of playing the game, and collecting the NFT
-* The `./Recordings` folder contains several recordings during the game play. You can check the following youtube link below,
+* The `./Recordings` folder contains several recordings during the game play. You can check the following youtube video below
 
 [![Watch the video](https://yt-embed.live/embed?v=HaWVC9ZHIwY)](https://www.youtube.com/watch?v=HaWVC9ZHIwY "Watch the video")
